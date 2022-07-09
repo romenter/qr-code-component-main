@@ -1,0 +1,28 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "description": "fronted mentor challenge - qr code component",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romenter/qr-code-component-main.git"
+  },
+  "keywords": [
+    "frontedmentor",
+    "html",
+    "css"
+  ],
+  "author": "Romen, Ter Gazarian <romen.tergazarian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romenter/qr-code-component-main/issues"
+  },
+  "homepage": "https://github.com/romenter/qr-code-component-main#readme",
+  "dependencies": {
+    "normalize": "^0.3.1",
+    "normalize.css": "^8.0.1"
+  }
+}
